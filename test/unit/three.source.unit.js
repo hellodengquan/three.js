@@ -13,6 +13,7 @@ import './src/utils.tests.js';
 import './src/animation/AnimationAction.tests.js';
 import './src/animation/AnimationClip.tests.js';
 import './src/animation/AnimationMixer.tests.js';
+import './src/animation/AnimationMixer.TrackBinding.tests.js';
 import './src/animation/AnimationObjectGroup.tests.js';
 import './src/animation/KeyframeTrack.tests.js';
 import './src/animation/PropertyBinding.tests.js';
