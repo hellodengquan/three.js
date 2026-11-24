@@ -16,6 +16,7 @@ import './src/animation/AnimationMixer.tests.js';
 import './src/animation/AnimationObjectGroup.tests.js';
 import './src/animation/KeyframeTrack.tests.js';
 import './src/animation/PropertyBinding.tests.js';
+import './src/animation/PropertyMixer.tests.js';
 
 //src/animation/tracks
 import './src/animation/tracks/BooleanKeyframeTrack.tests.js';
